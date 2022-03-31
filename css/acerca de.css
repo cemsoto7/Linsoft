@@ -1,0 +1,7 @@
+img {
+  filter: brightness(60%);
+}
+.text-acerca {
+  font-family: "Roboto Condensed";
+  text-align: justify;
+}
